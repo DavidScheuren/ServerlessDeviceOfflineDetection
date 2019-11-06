@@ -10,7 +10,7 @@
     },
     "location": {
       "type": "string",
-      "defaultValue": "Central US",
+      "defaultValue": "West Europe",
       "metadata": {
         "description": "Select a location for your resources"
       }
