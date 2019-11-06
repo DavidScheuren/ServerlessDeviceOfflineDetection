@@ -5,8 +5,8 @@ trigger:
 variables: 
   ## 👇 Update with your own values 👇 ##
   azureSubscription: 'DSA Fleetportal - DavidScheuren'
-  functionAppName: 'offlinedetection'
-  resourceGroupName: 'offlinedetection-test' 
+  functionAppName: 'vcgofflinedetect'
+  resourceGroupName: 'vcgofflinedetection-test' 
   ## ☝ Update with your own values ☝ ##
 
   vmImageName: 'vs2017-win2016'  
